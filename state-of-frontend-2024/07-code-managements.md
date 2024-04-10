@@ -1,30 +1,31 @@
-# 5. Code Managements
+# 7. Code Managements
 
-## 5.1. What’s your favorite desktop code editor?
+## 7.1. What’s your favorite desktop code editor?
 
 Format: Single answer
 
 Aswers:
 - Atom
 - JetBrains IDE (eg. WebStorm)
+- Notepad++
 - Sublime
 - Vim
 - Visual Studio Code
 - Other
 
-## 5.2. What's your favorite browser code editor?
+## 7.2. What's your favorite browser code editor?
 
 Format: Single answer
 
 Aswers:
 - CodePen
-- Codesandbox
+- CodeSandbox
 - JSFiddle
 - Replit
 - StackBlitz
 - Other
 
-## 5.3. What's your favorite version control provider?
+## 7.3. What's your favorite version control provider?
 
 Format: Single answer
 

@@ -1,6 +1,6 @@
-# 7. Deployment and Infrastructure
+# 9. Deployment and Infrastructure
 
-## 7.1. Where do you host the applications most ofter
+## 9.1. What is your prefered method of hosting application?
 
 Format: Single answer
 
@@ -13,9 +13,10 @@ Aswers:
 - Netlify
 - Shared hosting
 - Vercel
-- I don't know
+- I don't know / Not my responsibility
+- Other
 
-## 7.2. Have you used continuous integration?
+## 9.2. Have you used continuous integration?
 
 Format: Single answer
 
@@ -26,7 +27,7 @@ Aswers:
 After:
 - selecting "No" skips question 7.3
 
-## 7.3. Which CI solutions have you used?
+## 9.3. Which CI solutions have you used?
 
 Format: Multi answer
 
@@ -40,7 +41,7 @@ Aswers:
 - Travis CI
 - Other
 
-## 7.4. Have you used micro-frontends?
+## 9.4. Have you used micro-frontends?
 
 Format: Single answer
 
@@ -51,7 +52,7 @@ Aswers:
 After:
 - selecting "No" skips section
 
-## 7.5. What micro-frontend solution have you used?
+## 9.5. What micro-frontend solution have you used?
 
 Format: Single answer
 

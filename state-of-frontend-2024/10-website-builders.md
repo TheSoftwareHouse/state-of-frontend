@@ -1,6 +1,6 @@
-# 9. Website Builders
+# 10. Website Builders
 
-## 9.1. Which website builder tools did you used in the last year?
+## 10.1. Which website builder tools did you used in the last year?
 
 Format: Multi answer
 
@@ -11,8 +11,9 @@ Answers:
 - Squarespace
 - Webflow
 - Wix
+- Other
 
-## 9.2. Which low-code platforms did you used in the last year?
+## 10.2. Which low-code platforms did you used in the last year?
 
 Format: Multi answer
 
@@ -25,9 +26,10 @@ Answers:
 - Pegasystems
 - Quickbase
 - Retool
-- Salesforce Platform	
+- Salesforce Platform
+- Other
 
-## 9.3. Which no-code platforms did you used in the last year?
+## 10.3. Which no-code platforms did you used in the last year?
 
 Format: Multi answer
 
@@ -38,5 +40,6 @@ Answers:
 - Make
 - Notion 
 - Softr
-- Typeform 
+- Typeform
+- Other
 

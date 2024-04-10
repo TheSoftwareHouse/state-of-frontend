@@ -1,6 +1,6 @@
-# 6. Testing
+# 7. Testing
 
-## 6.1. Who’s responsible for testing in your software development teams?
+## 7.1. Who’s responsible for write tests in your software development teams?
 
 Format: Single answer
 
@@ -11,7 +11,7 @@ Aswers:
 - Mostly QA
 - Only QA	
 
-## 6.2. Have you performed software tests yourself over the last year?
+## 7.2. Have you performed software tests yourself over the last year?
 
 Format: Single answer
 
@@ -22,7 +22,7 @@ Aswers:
 After:
 - selecting "No" skips the section
 
-## 6.3. What type of software tests did you write?
+## 7.3. What type of software tests did you write?
 
 Format: Multi answer
 
@@ -33,7 +33,7 @@ Aswers:
 - Other
 - None
 
-## 6.4. What type of software tests have you written most often?
+## 7.4. What type of software tests have you written most often?
 
 Format: Single answer
 
@@ -44,7 +44,7 @@ Aswers:
 - Other
 - None
 
-## 6.5. What testing tools have you used*?
+## 7.5. What testing tools have you used?
 
 Format: Multi answer
 
@@ -55,4 +55,5 @@ Aswers:
 - Playwright
 - Super Test
 - Testing Library
+- Vitest
 - Other

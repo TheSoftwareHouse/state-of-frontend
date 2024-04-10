@@ -1,15 +1,19 @@
 # 3. TypeScript
 
-## 3.1. Have you used Typescript?
+## 3.1. What typing method have you used in the last year??
 
-Format: Single answer
+Format: Matrix of options and answers
 
-Answers:
-- Yes
-- No
+Options:
+- Flow
+- JSDoc
+- TypeScript
 
-After:
-- selecting "No" skips the section
+Answer for each option:
+- Used and liked
+- Used and disliked
+- Wishes to learn
+- No opinion
 
 ## 3.2. What is the future of TypeScript?
 

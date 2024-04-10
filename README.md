@@ -2,7 +2,7 @@
 
 Welcome to the State of Frontend, a comprehensive bi-annual report that highlights real-world experiences of all levels and backgrounds. Our [most recent survey][1] reached over 3,700 individuals spanning 125 countries, offering unique insights into the ever-evolving frontend development landscape.
 
-![State of Frontend 2022](./assets/background.jpeg)
+![State of Frontend 2022](./assets/sofe2022.jpeg)
 
 In this repository, we're excited to share the questions that will form the backbone of the 2024 technological side of the State of Frontend 2024 survey.
 
