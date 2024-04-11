@@ -8,12 +8,17 @@ Answers:
 - Cache API
 - Clipboard API
 - CSS Houdini
+- Extensions API
+- Fetch API
 - File System Access API
 - Fullscreen API
 - Geolocation API
 - IndexedDB
+- IntersectionObserver
+- ResizeObserver
 - Resource hints
 - Service Workers
+- Storage API
 - WebAssembly
 - WebGL
 - WebHID API

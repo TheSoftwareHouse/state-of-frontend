@@ -6,11 +6,14 @@ Format: Matrix of options and answers
 
 Options:
 - Alpine.js
-- Angular
+- Angular 2+
+- Angular.js
 - Ember
-- HTMLX
+- HTMX
 - Lit
+- Phoenix
 - Preact
+- Qwik
 - React
 - Solid
 - Svelte
@@ -28,6 +31,7 @@ Format: Matrix of options and answers
 
 Options:
 - Astro
+- Docusaurus
 - Gatsby
 - Next.js
 - Nuxt
@@ -45,10 +49,15 @@ Answer for each option:
 Format: Matrix of options and answers
 
 Options:
+- Ajv
+- class-validator
+- io-ts
 - joi
-- yum
+- superstruct
+- valibot
 - yup
 - zod
+- Other
 
 Answer for each option:
 - Used and liked
@@ -56,13 +65,33 @@ Answer for each option:
 - Wishes to learn
 - No opinion
 
-## 2.4 Which date management libraries have you used in the last year?
+## 2.4 Which state management libraries have you used in the last year?
+
+Format: Matrix of options and answers
+
+Options:
+- Jotai
+- MobX
+- Pinia
+- Redux
+- Redux Toolkit
+- React Context API
+- Zustand
+
+Answer for each option:
+- Used and liked
+- Used and disliked
+- Wishes to learn
+- No opinion
+
+## 2.5 Which date management libraries have you used in the last year?
 
 Format: Matrix of options and answers
 
 Options:
 - date-fns
 - Date.js
+- Day.js
 - Luxon
 - Moment
 
@@ -72,7 +101,7 @@ Answer for each option:
 - Wishes to learn
 - No opinion
 
-## 2.5 Which tool gave you used to fetch data in the last year?
+## 2.6 Which tool gave you used to fetch data in the last year?
 
 Format: Matrix of options and answers
 
@@ -82,7 +111,7 @@ Options:
 - ky
 - native fetch
 - SWR
-- TankStack Query
+- TanStack Query
 - tRPC
 
 Answer for each option:
@@ -91,7 +120,7 @@ Answer for each option:
 - Wishes to learn
 - No opinion
 
-## 2.6 Which of the other libraries have you used in the last year?
+## 2.7 Which of the other libraries have you used in the last year?
 
 Format: Matrix of options and answers
 
@@ -102,26 +131,6 @@ Options:
 - Ramda
 - RxJS
 - Underscore
-
-Answer for each option:
-- Used and liked
-- Used and disliked
-- Wishes to learn
-- No opinion
-
-## 2.7 Which building tools have you used in the last year?
-
-Format: Matrix of options and answers
-
-Options:
-- esbuild
-- Gulp
-- Parcel
-- Rollup
-- SWC
-- Turbopack
-- Vite
-- webpack
 
 Answer for each option:
 - Used and liked
