@@ -54,6 +54,7 @@ Options:
 - io-ts
 - joi
 - superstruct
+- TypeBox
 - valibot
 - yup
 - zod
